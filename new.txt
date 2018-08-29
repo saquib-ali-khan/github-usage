@@ -1,0 +1,5 @@
+# OPENING A FILE IN GIT SHELL
+> start new.txt
+
+#CLONING A NEW REPOSITORY
+git clone https://<your github user name>:<your github password>@<rest of your github link starting with github.com>
